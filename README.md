@@ -1,4 +1,4 @@
-# -markdown-live-preview-API
+# markdown-live-preview-API
 
 ## Getting Started
 
