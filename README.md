@@ -17,3 +17,5 @@ npm install
 
 # Start the Node.js server
 npm start
+
+server running at http://localhost:4000
